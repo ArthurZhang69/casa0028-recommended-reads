@@ -12,5 +12,5 @@ export default defineConfig({
     }),
     tailwindcss(),
   ],
-  base: '/casa0028-recommended-reads/'
+  base: 'https://github.com/ArthurZhang69/casa0028-recommended-reads.git'
 })
